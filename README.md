@@ -11,7 +11,7 @@ governing permissions and limitations under the License.
 -->
 
 # aio-cli-health
-Health badges for the aio-cli and its plugins
+Health badges for the aio-cli and its plugins and modules
 
 @adobe/aio-cli
 ===
@@ -78,7 +78,7 @@ Adobe I/O Extensible CLI
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-pgb.svg)](https://greenkeeper.io/)
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-cli-plugin-pgb/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-cli-plugin-pgb/)
 
-aio-cli-config
+@adobe/aio-cli-config
 =======================
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
