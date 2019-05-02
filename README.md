@@ -22,7 +22,8 @@ Adobe I/O Extensible CLI
 [![Version](https://img.shields.io/npm/v/@adobe/aio-cli.svg)](https://npmjs.org/package/@adobe/aio-cli)
 [![Downloads/week](https://img.shields.io/npm/dw/@adobe/aio-cli.svg)](https://npmjs.org/package/@adobe/aio-cli)
 [![Build Status](https://travis-ci.org/adobe/aio-cli.svg?branch=master)](https://travis-ci.org/adobe/aio-cli)
-[![Build status](https://ci.appveyor.com/api/projects/status/j25h949babwn50ck?svg=true)](https://ci.appveyor.com/project/shazron/aio-cli) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli.svg)](https://greenkeeper.io/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli.svg)](https://greenkeeper.io/)
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-cli/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-cli/)
 
 @adobe/aio-cli-plugin-runtime
@@ -43,7 +44,8 @@ Adobe I/O Extensible CLI
 [![Version](https://img.shields.io/npm/v/@adobe/aio-cli-plugin-config.svg)](https://npmjs.org/package/@adobe/aio-cli-plugin-config)
 [![Downloads/week](https://img.shields.io/npm/dw/@adobe/aio-cli-plugin-config.svg)](https://npmjs.org/package/@adobe/aio-cli-plugin-config)
 [![Build Status](https://travis-ci.org/adobe/aio-cli-plugin-config.svg?branch=master)](https://travis-ci.org/adobe/aio-cli-plugin-config)
-[![Build status](https://ci.appveyor.com/api/projects/status/1pimm457lov4f1vr/branch/master?svg=true)](https://ci.appveyor.com/project/shazron/aio-cli-plugin-config/branch/master) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-config.svg)](https://greenkeeper.io/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-config.svg)](https://greenkeeper.io/)
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-cli-plugin-config/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-cli-plugin-config/)
 
 @adobe/aio-cli-plugin-console
@@ -53,7 +55,8 @@ Adobe I/O Extensible CLI
 [![Version](https://img.shields.io/npm/v/@adobe/aio-cli-plugin-console.svg)](https://npmjs.org/package/@adobe/aio-cli-plugin-console)
 [![Downloads/week](https://img.shields.io/npm/dw/@adobe/aio-cli-plugin-console.svg)](https://npmjs.org/package/@adobe/aio-cli-plugin-console)
 [![Build Status](https://travis-ci.org/adobe/aio-cli-plugin-console.svg?branch=master)](https://travis-ci.org/adobe/aio-cli-plugin-console)
-[![Build status](https://ci.appveyor.com/api/projects/status/uqfe3c8bcr3anbbp?svg=true)](https://ci.appveyor.com/project/shazron/aio-cli-plugin-console) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-console.svg)](https://greenkeeper.io/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-console.svg)](https://greenkeeper.io/)
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-cli-plugin-console/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-cli-plugin-console/)
 
 @adobe/aio-cli-plugin-jwt-auth
@@ -63,8 +66,8 @@ Adobe I/O Extensible CLI
 [![Version](https://img.shields.io/npm/v/@adobe/aio-cli-plugin-jwt-auth.svg)](https://npmjs.org/package/@adobe/aio-cli-plugin-jwt-auth)
 [![Downloads/week](https://img.shields.io/npm/dw/@adobe/aio-cli-plugin-jwt-auth.svg)](https://npmjs.org/package/@adobe/aio-cli-plugin-jwt-auth)
 [![Build Status](https://travis-ci.org/adobe/aio-cli-plugin-jwt-auth.svg?branch=master)](https://travis-ci.org/adobe/aio-cli-plugin-jwt-auth)
-[![Build status](https://ci.appveyor.com/api/projects/status/d6m0d43csd8t13vu?svg=true)](https://ci.appveyor.com/project/shazron/aio-cli-plugin-jwt-auth) 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-jwt-auth.svg)](https://greenkeeper.io/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-jwt-auth.svg)](https://greenkeeper.io/)
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-cli-plugin-jwt-auth/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-cli-plugin-jwt-auth/)
 
 @adobe/aio-cli-plugin-pgb
@@ -74,8 +77,8 @@ Adobe I/O Extensible CLI
 [![Version](https://img.shields.io/npm/v/@adobe/aio-cli-plugin-pgb.svg)](https://npmjs.org/package/@adobe/aio-cli-plugin-pgb)
 [![Downloads/week](https://img.shields.io/npm/dw/@adobe/aio-cli-plugin-pgb.svg)](https://npmjs.org/package/@adobe/aio-cli-plugin-pgb)
 [![Build Status](https://travis-ci.org/adobe/aio-cli-plugin-pgb.svg?branch=master)](https://travis-ci.org/adobe/aio-cli-plugin-pgb)
-[![Build status](https://ci.appveyor.com/api/projects/status/64arn2jha5xrp3i3/branch/master?svg=true)](https://ci.appveyor.com/project/adobe/aio-cli-plugin-pgb/branch/master) 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-pgb.svg)](https://greenkeeper.io/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-pgb.svg)](https://greenkeeper.io/)
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-cli-plugin-pgb/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-cli-plugin-pgb/)
 
 @adobe/aio-cli-config
@@ -85,6 +88,6 @@ Adobe I/O Extensible CLI
 [![Version](https://img.shields.io/npm/v/@adobe/aio-cli-config.svg)](https://npmjs.org/package/@adobe/aio-cli-config)
 [![Downloads/week](https://img.shields.io/npm/dw/@adobe/aio-cli-config.svg)](https://npmjs.org/package/@adobe/aio-cli-config)
 [![Build Status](https://travis-ci.org/adobe/aio-cli-config.svg?branch=master)](https://travis-ci.org/adobe/aio-cli-config)
-[![Build status](https://ci.appveyor.com/api/projects/status/h13ptksv982vmonc?svg=true)](https://ci.appveyor.com/project/goya/aio-cli-config)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-pgb.svg)](https://greenkeeper.io/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-pgb.svg)](https://greenkeeper.io/)
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-cli-config/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-cli-config/)
