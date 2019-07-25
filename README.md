@@ -107,3 +107,11 @@ Adobe I/O Extensible CLI
 [![Github Issues](https://img.shields.io/github/issues/adobe/aio-cli-config.svg)](https://github.com/adobe/aio-cli-config/issues)
 [![Github Pull Requests](https://img.shields.io/github/issues-pr/adobe/aio-cli-config.svg)](https://github.com/adobe/aio-cli-config/pulls)
 
+@adobe/aio-cna-core-config
+=======================
+
+[![Version](https://img.shields.io/npm/v/@adobe/aio-cna-core-config.svg)](https://npmjs.org/package/@adobe/aio-cna-core-config)
+[![Downloads/week](https://img.shields.io/npm/dw/@adobe/aio-cna-core-config.svg)](https://npmjs.org/package/@adobe/aio-cna-core-config)
+[![Build Status](https://travis-ci.com/adobe/aio-cna-core-config.svg?branch=master)](https://travis-ci.com/adobe/aio-cna-core-config)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cna-core-config.svg)](https://greenkeeper.io/)
+[![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-cna-core-config/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-cna-core-config/)
