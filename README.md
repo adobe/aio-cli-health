@@ -94,27 +94,14 @@ Adobe I/O Extensible CLI
 [![Github Issues](https://img.shields.io/github/issues/adobe/aio-cli-plugin-pgb.svg)](https://github.com/adobe/aio-cli-plugin-pgb/issues)
 [![Github Pull Requests](https://img.shields.io/github/issues-pr/adobe/aio-cli-plugin-pgb.svg)](https://github.com/adobe/aio-cli-plugin-pgb/pulls)
 
-@adobe/aio-cli-config
+@adobe/aio-lib-core-config
 =======================
 
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/@adobe/aio-cli-config.svg)](https://npmjs.org/package/@adobe/aio-cli-config)
-[![Downloads/week](https://img.shields.io/npm/dw/@adobe/aio-cli-config.svg)](https://npmjs.org/package/@adobe/aio-cli-config)
-[![Build Status](https://travis-ci.com/adobe/aio-cli-config.svg?branch=master)](https://travis-ci.com/adobe/aio-cli-config)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
-[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cli-plugin-pgb.svg)](https://greenkeeper.io/)
-[![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-cli-config/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-cli-config/)
-[![Github Issues](https://img.shields.io/github/issues/adobe/aio-cli-config.svg)](https://github.com/adobe/aio-cli-config/issues)
-[![Github Pull Requests](https://img.shields.io/github/issues-pr/adobe/aio-cli-config.svg)](https://github.com/adobe/aio-cli-config/pulls)
-
-@adobe/aio-cna-core-config
-=======================
-
-[![Version](https://img.shields.io/npm/v/@adobe/aio-cna-core-config.svg)](https://npmjs.org/package/@adobe/aio-cna-core-config)
-[![Downloads/week](https://img.shields.io/npm/dw/@adobe/aio-cna-core-config.svg)](https://npmjs.org/package/@adobe/aio-cna-core-config)
-[![Build Status](https://travis-ci.com/adobe/aio-cna-core-config.svg?branch=master)](https://travis-ci.com/adobe/aio-cna-core-config)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-cna-core-config.svg)](https://greenkeeper.io/)
-[![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-cna-core-config/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-cna-core-config/)
-[![Github Issues](https://img.shields.io/github/issues/adobe/aio-cna-core-config.svg)](https://github.com/adobe/aio-cna-core-config/issues)
+[![Version](https://img.shields.io/npm/v/@adobe/aio-lib-core-config.svg)](https://npmjs.org/package/@adobe/aio-lib-core-config)
+[![Downloads/week](https://img.shields.io/npm/dw/@adobe/aio-cna-core-config.svg)](https://npmjs.org/package/@adobe/aio-lib-core-config)
+[![Build Status](https://travis-ci.com/adobe/aio-lib-core-config.svg?branch=master)](https://travis-ci.com/adobe/aio-lib-core-config)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/aio-lib-core-config.svg)](https://greenkeeper.io/)
+[![Codecov Coverage](https://img.shields.io/codecov/c/github/adobe/aio-lib-core-config/master.svg?style=flat-square)](https://codecov.io/gh/adobe/aio-lib-core-config/)
+[![Github Issues](https://img.shields.io/github/issues/adobe/aio-lib-core-config.svg)](https://github.com/adobe/aio-lib-core-config/issues)
 [![Github Pull Requests](https://img.shields.io/github/issues-pr/adobe/aio-cna-core-config.svg)](https://github.com/adobe/aio-cna-core-config/pulls)
 
