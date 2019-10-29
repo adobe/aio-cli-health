@@ -10,6 +10,9 @@ OF ANY KIND, either express or implied. See the License for the specific languag
 governing permissions and limitations under the License.
 -->
 
+# Archived!
+Go to https://github.com/adobe/aio-cli/blob/master/HEALTH.md instead.
+
 <!--
 DON'T GENERATE MANUALLY!
 1. Modify the health.xslx file
